@@ -1,8 +1,8 @@
 # detection-estimation-learninng
 
-Course material for my graduate class on Detection, Estimation, and Learning. The course covers the fundamentals of detection and estimation theory, including hypothesis testing, maximum-likelihood and Bayes estimation, and tracking of linear systems via the Kalman filter. Further, it covers applications of these ideas to machine learning: regression, classification, feature extraction, and sparse coding and signal recovery.
+Course material for my graduate class on Detection, Estimation, and Learning. The course covers the fundamentals of detection and estimation theory, including hypothesis testing, maximum-likelihood and Bayes estimation, and tracking of linear systems via the Kalman filter. It also covers applications of these ideas to machine learning: regression, classification, feature extraction, and sparse coding and signal recovery.
 
-The file course-notes.pdf is a monograph of my lecture materials for the class.
+The file course-notes.pdf is a ~120-page monograph of my lecture materials for the class.
 
 The folders contain Jupyter notebooks with Python code for in-class demonstrations of the course material. The chapters are as follows:
 
@@ -14,4 +14,4 @@ Chapter 4: Parameter estimation: Maximum-likelihood estimation, the MVUE and suf
 
 Chapter 5: Bayesian estimation: MMSE/MAP estimators, conjugate priors, and Gaussian signal processing. Machine learning applications including sparse coding/signal processing, ridge regression, and the LASSO.
 
-Chapter 6: Kalman filter
+Chapter 6: Kalman filter: Linear state space models, Kalman filter, extended Kalman filter.
